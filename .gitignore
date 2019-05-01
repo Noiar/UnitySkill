@@ -1,0 +1,17 @@
+**/Library/
+**/obj/
+**/Temp/
+**/v15/
+
+*.psd
+*.max
+
+*.7z
+*.gz
+*.rar
+*.tar
+*.zip
+
+*.log
+.DS_Store*
+Thumbs.db
