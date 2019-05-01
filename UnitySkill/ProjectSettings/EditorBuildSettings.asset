@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Save/PlayerPrefs/PlayerPrefs.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/SQLConnect/SQLLoginMenu.unity
+    guid: f0547c9ef776f10428f593b79f74ef9b
+  - enabled: 1
+    path: Assets/SQLConnect/SQLGame.unity
+    guid: e483748fee980c54db9a01e34ec2b990
+  - enabled: 1
+    path: Assets/SQLConnect/SQLMainMenu.unity
+    guid: b3234cb457bbf454ebb7b066c345342b
+  - enabled: 1
+    path: Assets/SQLConnect/SQLRegisterMenu.unity
+    guid: aef59243a3c3b584c8e2511f0ce96301
+  m_configObjects: {}

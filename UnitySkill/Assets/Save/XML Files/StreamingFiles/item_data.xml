@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CombatEquiptment>
+    <ItemEntry>
+      <itemName>Shield</itemName>
+      <material>Wood</material>
+      <value>3</value>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Spear</itemName>
+      <material>Copper</material>
+      <value>6</value>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>Hammer</itemName>
+      <material>Iron</material>
+      <value>30</value>
+    </ItemEntry>
+  </CombatEquiptment>
+</ItemDatabase>
