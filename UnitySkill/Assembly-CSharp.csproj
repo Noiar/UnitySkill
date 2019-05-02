@@ -78,18 +78,20 @@
     <Compile Include="Assets\SQLConnect\SQLRegistration.cs" />
     <Compile Include="Assets\SQLConnect\SQLWebTest.cs" />
     <Compile Include="Assets\SQLConnect\TabBetween.cs" />
+    <Compile Include="Assets\UI\CloseOnBlurUI\CloseOnBlur.cs" />
+    <Compile Include="Assets\UI\CloseOnBlurUI\CloseOnBlur_2.cs" />
     <None Include="Assets\Save\XML Files\StreamingFiles\item_data.xml" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>D:/workspace/unity/UnitySkill/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>D:/workspace/unity/UnitySkills/UnitySkill/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/workspace/unity/UnitySkill/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/workspace/unity/UnitySkills/UnitySkill/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/workspace/unity/UnitySkill/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/workspace/unity/UnitySkills/UnitySkill/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/workspace/unity/UnitySkill/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/workspace/unity/UnitySkills/UnitySkill/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity 2018.2.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
